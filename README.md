@@ -17,7 +17,7 @@ This folder contains Figure 1 (`Figure1.pdf`) as shown in the paper.
 
 ### `R` 
 
-This folder contains the R code used to generate the tables in Section 4 and any additional analysis.
+This folder contains the R code used to calculate the JED power and the R code to generate the tables in Section 4.
 
 The R script `R code for function to calculate JED power.R` contains the R code for function `jed_power` to calculate the JED power as the equation shown in section 4.
 
