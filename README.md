@@ -17,6 +17,6 @@ This folder contains the R code used to calculate the JED power and the R code t
 
 The R script `R code for a function to calculate JED power.R` contains the R code for function `jed_power` to calculate the JED power as the equation shown in section 4.
 
-The R script `R code for tables (section 4).R` contains the R code for generating table 1 table 2, and table 3. 
+The R script `R code for tables (section 4).R` contains the R code for generating table 1, table 2, and table 3. 
 
 To run these R scripts, you will need to library R package `tidyverse`, `knitr`, `kableExtra`, and `gridExtra`. 
