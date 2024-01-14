@@ -5,7 +5,7 @@ This repository contains supplementary material for the JED paper. The supplemen
 
 ## Repository Structure
 
-The repository is organized into three main folders:
+The repository is organized into two main folders:
 
 ### `Data`
 
