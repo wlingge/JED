@@ -20,7 +20,7 @@ jed_power <- function(sigma1 = 1,
 }
 
 # Tables
-## Table 1
+## Table 22222
 alpha = c(0.1, 0.05, 0.01)
 n = c(10, 20, 30, 60)
 n_ratio <- c(1, 1.5, 2.33)
