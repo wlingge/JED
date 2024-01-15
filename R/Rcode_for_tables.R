@@ -77,7 +77,7 @@ table_1 <- cbind(table_expand_1, pval_table_1)%>%
                                test_type == "equ" ~ "p(0)",
                                test_type == "inf" ~ "p(-)"))
 
-kable(table_1, booktabs = TRUE, linesep = "", caption = "p_value table",
+kable(table_1, booktabs = TRUE, linesep = "", caption = "p value table",
       col.names = c("delta", "p_values", colnames(table_1)[-c(1,2)])) %>%
   kableExtra::collapse_rows(1, latex_hline = "major") %>%
   kableExtra::add_header_above(., c(" " = 2, "d" = 8))
