@@ -17,7 +17,7 @@ This folder contains the R code used to calculate the JED power, the R code used
 
 The R script `Rcode_function_JEDpower.R` contains the R code for function `jed_power` to calculate the JED power as the equation shown in section 4.
 
-The R script `Rcode_function_pvalue.R` contains the R code for function `jed_pvalues` to calculate the p-value as the equation shown in section 4.
+The R script `Rcode_function_pvalue.R` contains the R code for function `jed_pvalues` to calculate the p-value as the equation shown in section 3.
 
 The R script `Rcode_for_tables.R` contains the R code for generating table 1, table 2, and table 3. 
 
