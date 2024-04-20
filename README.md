@@ -19,6 +19,6 @@ The R script `Rcode_function_JEDpower.R` contains the R code for function `jed_p
 
 The R script `Rcode_function_pvalue.R` contains the R code for function `jed_pvalues` to calculate the p-value as the equation shown in section 3.
 
-The R script `Rcode_for_tables.R` contains the R code for generating table 1, table 2, and table 3. 
+The R markdown `Rcode_for_tables.Rmd` contains the R code for generating table 1, table 2, and table 3. 
 
 To run these R scripts, you will need to library R package `tidyverse`, `knitr`, `kableExtra`, and `gridExtra`. 
